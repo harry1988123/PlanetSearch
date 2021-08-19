@@ -1,3 +1,6 @@
+![alt text](https://github.com/harry1988123/PlanetSearch/blob/master/Capture.PNG)
+![alt text](https://github.com/harry1988123/PlanetSearch/blob/master/Capture2.PNG)
+![alt text](https://github.com/harry1988123/PlanetSearch/blob/master/Capture3.PNG)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
