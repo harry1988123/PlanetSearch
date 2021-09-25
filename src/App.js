@@ -80,7 +80,7 @@ const App = ()=>{
     <div className="container">  
         <div className="top"> 
             <Space direction="vertical">
-              <Search placeholder="Input search text" onSearch={onSearch} enterButton size="large"  style={{ width: 978 }}  />
+              <Search placeholder="Enter the planet name" onSearch={onSearch} enterButton size="large"  style={{ width: 978 }}  />
             </Space>
         </div>
 
